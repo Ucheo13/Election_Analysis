@@ -4,9 +4,13 @@ In this analysis Seth and Tom need help adding the county information to the ele
 
 ## Election Audit Results
 •	In this congressional election there were 369,711 total votes
+
 •	Denver had 82.8% Jefferson having 10.5%, and Arapahoe having 6.7%. The exact vote numbers were 306,055 in Denver, 38,855 in Jefferson, and 24,801 in Arapahoe
+
 •	Denver had the largest number of votes
+
 •	Charles Casper Stockham has 23% of the votes, Diana DeGette 73.8%, and Raymon Anthony Doane had 3.1%. The exact vote count was 85,213 for Stockham, 272,892 for DeGette, 11,606 for Doane
+
 •	Diana DeGette won the election with 272,892 votes and 73.8% of the votes  
 ![Election Audit](https://user-images.githubusercontent.com/96452277/150469010-9a2aa2f8-9b31-4b9d-b5a2-d2dcdde90a5b.png)
 
